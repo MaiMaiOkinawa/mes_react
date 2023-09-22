@@ -2,7 +2,7 @@ import Navbar from "./Navbar";
 import Card from "./Card";
 import "./Speak.css";
 
-import materialData from "../datas/MaterialData";
+import materialData from "../data/MaterialData";
 
 export default function Speak() {
   return (

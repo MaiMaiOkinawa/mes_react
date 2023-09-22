@@ -2,7 +2,7 @@ import Navbar from "./Navbar";
 import Card from "./Card";
 import "./Quiz.css";
 
-import quizData from "../datas/QuizData";
+import quizData from "../data/QuizData";
 
 export default function Quiz() {
   return (
