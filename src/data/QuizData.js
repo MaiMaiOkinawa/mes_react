@@ -27,9 +27,7 @@ const QuizData = [
     image:
       "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-NlvYd7tPjyeZPkk.png?nc=1",
     level: "Colorful board",
-    category: [
-      { Click: "https://maimaiokinawa.github.io/speech_text_reader/" },
-    ],
+    category: [{ Click: "https://maimaiokinawa.github.io/hoverboard/" }],
   },
 
   {
