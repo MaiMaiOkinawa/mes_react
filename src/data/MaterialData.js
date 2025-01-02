@@ -1,7 +1,7 @@
 const MaterialData = [
   {
     image:
-       "../assets/level_01.jpeg",
+       "src/assets/level_01.jpeg",
     level: "Level 1",
     category: [
       { Fruits: "https://maimaiokinawa.github.io/fruits_mes/" },
