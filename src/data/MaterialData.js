@@ -1,7 +1,7 @@
 const MaterialData = [
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-iebaKTHQCjr6Eyn.png?nc=1",
+       "../assets/level_01.jpeg",
     level: "Level 1",
     category: [
       { Fruits: "https://maimaiokinawa.github.io/fruits_mes/" },
@@ -10,13 +10,13 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-AiQZOkzr0QgHFoS.png?nc=1",
+       "../assets/level_02.jpeg",
     level: "Level 2",
     category: [{ Animals: "https://maimaiokinawa.github.io/animals_mes/" }],
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-Bt00ktU94ujTZRu.png?nc=1",
+       "../assets/level_03.jpeg",
     level: "Level 3",
     category: [
       { Color: "https://maimaiokinawa.github.io/color_mes/" },
@@ -25,7 +25,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-DOteWqCqUBbiKSM.png?nc=1",
+       "../assets/level_04.jpeg",
     level: "Level 4",
     category: [
       { Number: "https://maimaiokinawa.github.io/numbers_mes/" },
@@ -34,7 +34,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-GfQ9AVpiMYYwD0v.png?nc=1",
+      "../assets/level_05.jpeg",
     level: "Level 5",
     category: [
       { "Body parts": "https://maimaiokinawa.github.io/body_parts_mes/" },
@@ -44,7 +44,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-OXb1s3u9AKq0zZh.png?nc=1",
+      "../assets/level_06.jpeg",
     level: "Level 6",
     category: [
       { Furniture: "https://maimaiokinawa.github.io/furniture_mes/" },
@@ -53,7 +53,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-1ucIyBrGWs1yJCo.png?nc=1",
+       "../assets/level_07.jpeg",
     level: "Level 7",
     category: [
       { Verbs: "https://maimaiokinawa.github.io/verbs_mes/" },
@@ -64,7 +64,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-RUd0NKgp53VyHHu.png?nc=1",
+       "../assets/level_08.jpeg",
     level: "Level 8",
     category: [
       { Weather: "https://maimaiokinawa.github.io/weather_mes/" },
@@ -75,7 +75,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-3HYbiHTFdCXInZa.png?nc=1",
+      "../assets/level_09.jpeg",
     level: "Level 9",
     category: [
       { Vehicle: "https://maimaiokinawa.github.io/vehicles_mes/" },
@@ -85,7 +85,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-UfU5rHjT3OeMisY.png?nc=1",
+       "../assets/level_10.jpeg",
     level: "Level 10",
     category: [
       { "Months & Week": "https://maimaiokinawa.github.io/months_week_mes/" },
@@ -95,7 +95,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-wbfxM0Afio3Xtzt.png?nc=1",
+       "../assets/level_11.jpeg",
     level: "Level 11",
     category: [
       { Stationery: "https://maimaiokinawa.github.io/stationery_mes/" },
@@ -106,7 +106,7 @@ const MaterialData = [
   },
   {
     image:
-      "https://hotpotmedia.s3.us-east-2.amazonaws.com/8-b9031Sh4JXdWPFc.png?nc=1",
+       "../assets/level_12.jpeg",
     level: "Level 12",
     category: [
       { Country: "https://maimaiokinawa.github.io/country_mes/" },
